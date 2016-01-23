@@ -1,0 +1,24 @@
+{
+  "name": "gulp-remark-lint-dko",
+  "version": "1.0.0",
+  "description": "Gulp task using remark and remark-lint to lint markdown files and output stylish results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "remark",
+    "markdown",
+    "lint"
+  ],
+  "author": "David O'Trakoun <me@davidosomething.com> (https://davidosomething.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "convert-vinyl-to-vfile": "^0.1.1",
+    "remark": "^3.2.2",
+    "remark-lint": "^2.2.1",
+    "through2": "^2.0.0",
+    "vfile-reporter": "^1.5.0"
+  }
+}
