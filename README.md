@@ -40,6 +40,7 @@ New project! Pull requests welcome!
 - [ ] fail on error/warning
 - [ ] output results to file
 - [ ] tests, CI on travis and auto-npm-publish
+- [ ] add addt'l options, e.g. support for [lint plugins](https://www.npmjs.com/package/remark-lint-code)
 
 ## License
 
