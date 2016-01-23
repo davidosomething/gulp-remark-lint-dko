@@ -3,6 +3,8 @@
 > Gulp task using remark and remark-lint to lint markdown files and output
 > stylish results
 
+![Example output](https://raw.githubusercontent.com/davidosomething/gulp-remark-lint-dko/master/screenshot.png)
+
 ## Install
 
 ```

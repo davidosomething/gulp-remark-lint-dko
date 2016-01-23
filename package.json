@@ -1,6 +1,6 @@
 {
   "name": "gulp-remark-lint-dko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp task using remark and remark-lint to lint markdown files and output stylish results",
   "main": "index.js",
   "scripts": {
