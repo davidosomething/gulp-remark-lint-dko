@@ -1,5 +1,7 @@
 # gulp-remark-lint-dko
 
+## Deprecated in favor of [vfile-to-eslint](https://github.com/sindresorhus/vfile-to-eslint)
+
 > Gulp task using remark and remark-lint to lint markdown files and output
 > stylish results
 
